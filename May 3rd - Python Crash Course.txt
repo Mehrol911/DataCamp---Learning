@@ -13,3 +13,4 @@ Github Repo: https://github.com/adelnehme/python-crash-course-an-introduction-to
 [TRACK]: Become a Python Data Scientist https://bit.ly/3kAucBv
 [CHEAT SHEETS]: Check out our Cheat Sheets on Python, R, Tableau, Power BI, and more: https://bit.ly/3kAZBnu
 [PODCAST]: Subscribe to the DataFramed podcast! https://bit.ly/3r6LGty
+[PODCAST]: Subscribe to the DataFramed podcast! https://www.datacamp.com/podcast
